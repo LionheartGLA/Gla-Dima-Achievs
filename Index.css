@@ -72,3 +72,12 @@ html, body {
     width: 120px;
     text-align: center;
 }
+
+.assinatura {
+    position:fixed;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    bottom:0;
+    right: 10px;
+    font-size: 0.8rem;
+}
