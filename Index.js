@@ -1,5 +1,5 @@
 const chars = [
-    { name: "Scratchmen Apoo", image: "chars/Medals/apoo.png", class: ["Atirador", "Suporte", "Supernova", "Fruta do Diabo"] },
+    { name: "Scratchmen Apoo", image: "chars/Medals/Apoo.png", class: ["Atirador", "Suporte", "Supernova", "Fruta do Diabo"] },
     { name: "Baby 5", image: "chars/Medals/Baby5.png", class: ["DPS", "Atirador", "Cortante", "Fruta do Diabo", "Mulher"] },
     { name: "Bartolomeo", image: "chars/Medals/Bartolomeo.png", class: ["Especialista", "DPS", "Fruta do Diabo"] },
     { name: "Bastille", image: "chars/Medals/Bastille.png", class: ["Cortante", "Tanque", "Marinheiro"] },
@@ -34,7 +34,7 @@ const chars = [
     { name: "Smoker", image: "chars/Medals/Smoker.png", class: ["Lutador", "Tanque", "Fruta do Diabo", "Marinheiro"] },
     { name: "Urouge", image: "chars/Medals/Urouge.png", class: ["Lutador", "Tanque", "Fruta do Diabo", "Supernova"] },
     { name: "Usopp", image: "chars/Medals/Usopp.png", class: ["Atirador", "DPS", "Chapéu de Palha"] },
-    { name: "Van Augur", image: "chars/Medals/Van_Augur.png", class: ["Atirador", "DPS"] },
+    { name: "Van Augur", image: "chars/Medals/Van_augur.png", class: ["Atirador", "DPS"] },
     { name: "Vinsmoke Yonji", image: "chars/Medals/Yonji.png", class: ["Lutador", "Tanque", "Realeza"] },
     { name: "Roronoa Zoro", image: "chars/Medals/Zoro.png", class: ["Cortante", "Bruiser", "Chapéu de Palha"] },
     { name: "Satori", image: "chars/Medals/Satori.png", class: ["Enel"] },
