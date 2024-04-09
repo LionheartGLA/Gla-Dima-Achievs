@@ -20,6 +20,7 @@ const chars = [
     { name: "Eustass Kid", image: "chars/Medals/Kid.png", class: ["Atirador", "Tanque", "Fruta do Diabo", "Supernova"] },
     { name: "Killer", image: "chars/Medals/Killer.png", class: ["Cortante", "DPS", "Supernova"] },
     { name: "Koala", image: "chars/Medals/Koala.png", class: ["Lutador", "DPS", "Mulher"] },
+    { name: "Trafalgar Law", image: "chars/Medals/Law.png", class: ["Cortante", "DPS", "Especialista", "Supernova", "Fruta do Diabo"] },
     { name: "Leo e Mansherry", image: "chars/Medals/Leo.png", class: ["Especialista", "Suporte", "Realeza", "Fruta do Diabo", "Mulher"] },
     { name: "Monkey D. Luffy", image: "chars/Medals/Luffy.png", class: ["Bruiser", "Lutador", "Fruta do Diabo", "Chapéu de Palha"] },
     { name: "Gecko Moria", image: "chars/Medals/Moria.png", class: ["Cortante", "Suporte", "Fruta do Diabo", "Shichibukai"] },
