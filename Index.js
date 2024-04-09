@@ -62,10 +62,17 @@ function addCharToList() {
         charDiv.classList.add("char");
 
         var imageElement = document.createElement("img");
+        var textElement = document.createElement("p");
+        textElement.innerText = character.name
+        textElement.classList.add("title");
+
         imageElement.src = character.image;
         imageElement.alt = character.name;
+        imageElement.style.width = "113px";
+        imageElement.style.height= "116px"
 
         charDiv.appendChild(imageElement);
+        charDiv.appendChild(textElement);
 
         charListDiv.appendChild(charDiv);
     })
@@ -102,7 +109,7 @@ function filterChars() {
         });
 
         if (showChar) {
-            char.style.display = 'block';
+            char.style.display = 'flex';
         }
     });
 }
