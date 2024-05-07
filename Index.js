@@ -4,7 +4,7 @@ const chars = [
     { name: "Bartolomeo", image: "chars/Medals/Bartolomeo.png", class: ["Especialista", "DPS", "Fruta do Diabo"] },
     { name: "Bastille", image: "chars/Medals/Bastille.png", class: ["Cortante", "Tanque", "Marinheiro"] },
     { name: "Bellamy", image: "chars/Medals/Bellamy.png", class: ["Lutador", "DPS", "Fruta do Diabo"] },
-    { name: "Jewelry Bonney", image: "chars/Medals/Bonney.png", class: ["Lutador", "Suporte", "Fruta do Diabo", "Supernova", "Mulher"] },
+    { name: "Jewelry Bonney", image: "chars/Medals/Bonney.png", class: ["Realeza", "Lutador", "Suporte", "Fruta do Diabo", "Supernova", "Mulher"] },
     { name: "Brook", image: "chars/Medals/Brook.png", class: ["Cortante", "Suporte", "Fruta do Diabo", "Chapéu de Palha"] },
     { name: "Capone Gang Bege", image: "chars/Medals/Capone.png", class: ["Atirador", "DPS", "Supernova", "Fruta do Diabo"] },
     { name: "Carrot", image: "chars/Medals/Carrot.png", class: ["Cortante", "Especialista", "DPS", "Mulher"] },
